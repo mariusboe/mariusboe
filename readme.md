@@ -21,7 +21,7 @@ If you are into eCommerce and Magento. Do reach out! I love chatting and help!ðŸ
 
 
 ðŸ“«
-I recommend come talk to me and others at [Norsk Programmering](https://discord.gg/z5TXt2J)
+Are you norwegian? And into programming? I Recommend come talk to me and others at [Norsk Programmering](https://discord.gg/z5TXt2J)
 
 
 ![Marius github stats](https://github-readme-stats.vercel.app/api?username=mariusboe&show_icons=true)
