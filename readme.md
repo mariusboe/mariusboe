@@ -21,11 +21,13 @@ I have a passion for Open Source, and community coding. Most of my personal stuf
 
 If you are into eCommerce and Magento. Do reach out! I love chatting and help!🎉
 <center>
+
 ## 💬Can i help you?
 </center>
 You can ask me about PHP, Python, Javascript, Node.js, Vue.js, React and other fun stuff!
 
 <center>
+
 ## 📫 How to contact me?
 </center>
 Are you norwegian? And into programming? I Recommend come talk to me and others at [Norsk Programmering](https://discord.gg/z5TXt2J)
