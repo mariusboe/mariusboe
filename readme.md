@@ -14,16 +14,20 @@ I'm a full-stack developer, UX and graphics designer.
 My speciality is Magento and e-Commerce platforms.
 
 I love sharing my knowledge with others and love learning new technology.
-
+<center>
 ## ⚡
+</center>
 I have a passion for Open Source, and community coding. Most of my personal stuff is released under the MIT license so that anyone can benefit from my work. You can find most of my personal projects here on GitHub. If you want to se my other work please visit my profile page at [mediedyret.no](mediedyret.no)
 
 If you are into eCommerce and Magento. Do reach out! I love chatting and help!🎉
-
+<center>
 ## 💬
+</center>
 You can ask me about PHP, Python, Javascript, Node.js, Vue.js, React and other fun stuff!
 
+<center>
 ## 📫
+</center>
 Are you norwegian? And into programming? I Recommend come talk to me and others at [Norsk Programmering](https://discord.gg/z5TXt2J)
 
 
