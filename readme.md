@@ -30,6 +30,9 @@ You can ask me about PHP, Python, Javascript, Node.js, Vue.js, React and other f
 </h2>
 Are you norwegian? And into programming? I Recommend come talk to me and others at [Norsk Programmering](https://discord.gg/z5TXt2J)
 
+<br>
+Otherwise i recommend using one of the buttons above 🤓
+
 <br /><br /><br />
 
 
