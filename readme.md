@@ -20,9 +20,9 @@
 * 🧩 Love the intersection of **design, code & service design**
 * 🚑 **Røde Kors Hjelpekorps**
 * * Drone Resource Group Leader
-* * Drone pilot
-* * Search‑and‑rescue team leader
-* * Search-and-rescue incident leader
+  * Drone pilot
+  * Search‑and‑rescue team leader
+  * Search-and-rescue incident leader
 
 ---
 
