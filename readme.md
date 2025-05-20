@@ -15,7 +15,7 @@
 
 * 🏡 Based in **Fana, Bergen (Norway)**
 * 🎂 Born **13 April 1989**
-* 👨‍💻 **Operations Manager & Bergen Department Lead @ [Aplia](https://aplia.no)** (Sept 2022 → present) – heading the Bergen team, sales & client success, crafting awesome products for our clients
+* 👨‍💻 **Solutions Architect & Bergen Department Lead @ [Aplia](https://aplia.no)** (Sept 2022 → present) – heading the Bergen team, sales & client success, crafting awesome products for our clients
 * 🛒 10+ years in e‑commerce, specialising in **Magento 1 & 2**
 * 🧩 Love the intersection of **design, code & service design**
 * 🚑 **Røde Kors Hjelpekorps**
